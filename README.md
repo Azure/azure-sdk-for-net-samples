@@ -1,6 +1,10 @@
 # Azure SDK for .NET Samples
 
 
+## About the code
+
+Azure SDK for .NET sample code can now be found here: https://github.com/Azure/azure-sdk-for-net/tree/master/samples
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
